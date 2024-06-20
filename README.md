@@ -8,13 +8,13 @@
 
 <hr>
 
-<h3 align="center">FRONT-END DEVELOPER</h3>
-
-<hr>
+<h1 align="center">FRONT-END DEVELOPER</h1>
 
 <div align="center">
- 
- 🌱 I’m currently learning **NextJS**
+
+🪜 I'm currently working as **Freelance Front-end**
+
+🌱 I’m currently learning **NextJS**
 
 💬 Ask me about **CSS, React, Tailwind, Databases... or anything [here](https://github.com/TimmyJonesP/TimmyJonesP/issues)**
 
@@ -33,9 +33,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<hr>
 
-<h2 align="center">⚒️ MY TECH-STACK: ⚒️</h2>
+<h2 align="center">⚒️ MY TECH-STACK ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react" /><br>
@@ -43,9 +42,7 @@
 </div>
 
 <br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ STATS ⚡</h2>
 <br>
 <div align="center">
 
