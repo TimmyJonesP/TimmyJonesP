@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TimmyJonesP.TimmyJonesP" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+web&size=30&duration=3000&pause=200&color=3EF721&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Hi+there!;I'm+Sandro+Carioli)](https://git.io/typing-svg)
@@ -49,3 +47,4 @@
 ![TimmyJonesP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyJonesP&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TimmyJonesP.TimmyJonesP" />
