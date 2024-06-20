@@ -6,8 +6,6 @@
 
 </div>
 
-<hr>
-
 <h1 align="center">FRONT-END DEVELOPER</h1>
 
 <div align="center">
