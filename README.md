@@ -42,7 +42,7 @@
 <br>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=TimmyJonesP&theme=vue-dark&hide_border=true&border_radius=2&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=TimmyJonesP&theme=vue-dark&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![TimmyJonesP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyJonesP&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
